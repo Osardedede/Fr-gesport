@@ -1,0 +1,16 @@
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\bin\Debug\net5.0\Frågesport.exe
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\bin\Debug\net5.0\Frågesport.deps.json
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\bin\Debug\net5.0\Frågesport.runtimeconfig.json
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\bin\Debug\net5.0\Frågesport.runtimeconfig.dev.json
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\bin\Debug\net5.0\Frågesport.dll
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\bin\Debug\net5.0\ref\Frågesport.dll
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\bin\Debug\net5.0\Frågesport.pdb
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.csproj.AssemblyReference.cache
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.AssemblyInfoInputs.cache
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.AssemblyInfo.cs
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.csproj.CoreCompileInputs.cache
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.dll
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\obj\Debug\net5.0\ref\Frågesport.dll
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.pdb
+C:\Users\jansson.oscar\Documents\spelprojekt\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.genruntimeconfig.cache
