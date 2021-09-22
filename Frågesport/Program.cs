@@ -1,5 +1,9 @@
 ﻿using System;
 using System.Threading;
+string game;
+static void spelet()
+{
+
 string restart = "yes";
 
 while (restart == "yes")
@@ -140,3 +144,17 @@ while (restart == "yes")
 
 
 Console.ReadLine();
+}
+
+Console.WriteLine("do you want to play a game?");
+game = Console.ReadLine();
+if (game == "yes")
+{
+    spelet();
+}
+else
+{
+    Console.WriteLine("fuck you");
+    Console.ReadLine();
+        
+}
